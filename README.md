@@ -5,7 +5,7 @@
 </p>
 
 
-I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
+I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Javascript
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
