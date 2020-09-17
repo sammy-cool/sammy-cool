@@ -1,72 +1,86 @@
-## Hi 👋 I am Priyanshu! 
+<h2>Hi there 🙏🏻, I'm Priyanshu! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<p align="center">
-  <img src="https://imgs.xkcd.com/comics/time_machine.png" alt="Time Machine">
-</p>
+![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
+👇 Hit in your console or terminal to connect with me.
 
-I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Javascript
+```bash
+npx anmol
+```
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
-- 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-- 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<details>
-<summary>🤝 <b>To connect with me</b></summary>
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Vue", "Nuxt"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-<p align = "center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-  [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://pr2tik1.github.io/)
-  [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Pratikpkb) 
-  [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pratikbaitha04)
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratik-kumar04/)
-  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/)
-  [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/pr2tik1) 
-</p>
-
-</details>
-
-
-<details>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
-</p>
-
-</details>
-
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
-
+---
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1078-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 630 Contributions in the Year 2020
+ > 
+> 📦 333.2 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 32 Public Repositories
+ > 
+> 🔑 18 Private Repositories 
+
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    109 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
-🌆 Daytime    215 commits    ████████░░░░░░░░░░░░░░░░░   34.07% 
-🌃 Evening    225 commits    █████████░░░░░░░░░░░░░░░░   35.66% 
-🌙 Night      82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0%
+🌞 Morning    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+🌆 Daytime    173 commits    ████████░░░░░░░░░░░░░░░░░   33.86% 
+🌃 Evening    151 commits    ███████░░░░░░░░░░░░░░░░░░   29.55% 
+🌙 Night      114 commits    █████░░░░░░░░░░░░░░░░░░░░   22.31%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.57% 
-Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
-Wednesday    79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
-Thursday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
-Friday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-Saturday     104 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
-Sunday       112 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.75%
+Monday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Tuesday      55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
+Wednesday    53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.37% 
+Thursday     88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
+Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+Saturday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
+Sunday       106 commits    █████░░░░░░░░░░░░░░░░░░░░   20.74%
 
 ```
 
@@ -74,38 +88,40 @@ Sunday       112 commits    ████░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+⌚︎ Time Zone: Asia/Kolkata
+
 💬 Programming Languages: 
-Markdown                 36 mins             ███████████░░░░░░░░░░░░░░   44.31% 
-Python                   33 mins             ██████████░░░░░░░░░░░░░░░   41.15% 
-YAML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
+HTML                     2 hrs 37 mins       ███████████░░░░░░░░░░░░░░   47.43% 
+JavaScript               2 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.99% 
+CSS                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+
+🔥 Editors: 
+WebStorm                 5 hrs 32 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  5 hrs 32 mins       █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Jupyter Notebook** 
+**I Mostly Code in Vue** 
 
 ```text
-Jupyter Notebook         10 repos            ████████████████░░░░░░░░░   66.67% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-HTML                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-JavaScript               1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Vue                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://github.com/anmol098/anmol098/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
 
-</details>
-
-
-<details> 
-
-<summary><b>📑 My latest Medium articles</b>:</summary>
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0" alt="Recent Article 0"></a>
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1" alt="Recent Article 1"></a>
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2" alt="Recent Article 2"></a>
-
-</details>
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
