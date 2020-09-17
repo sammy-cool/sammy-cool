@@ -1,4 +1,9 @@
-## Hi 👋 I am Pratik! 
+## Hi 👋 I am Priyanshu! 
+
+<p align="center">
+  <img src="https://imgs.xkcd.com/comics/time_machine.png" alt="Time Machine">
+</p>
+
 
 I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
 
