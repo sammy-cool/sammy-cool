@@ -8,7 +8,13 @@
 <p><em>Full Stack Developer trainee at <a href="http://www.cleartax.in">DCT Academy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/priyanshu-patel-b904021b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Md%20Taaj%20Uddin-blue?style=flat&logo=linkedin"></a>
+<a href="https://github.com/sammy-cool"><img alt="Github" src="https://img.shields.io/badge/GitHub-taajuddin-blue?style=flat&logo=github"></a>
+<a href="mailto:priyanshu.alt191@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-taajraza12%40gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 **Languages and Tools:**  
 
