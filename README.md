@@ -1,4 +1,8 @@
 <h2>Hi there 🙏🏻, I'm Priyanshu! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p align="center">
+  <img src="https://imgs.xkcd.com/comics/time_machine.png" alt="Time Machine">
+</p>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
