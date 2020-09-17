@@ -32,7 +32,7 @@ npx priyanshu
 
 ```javascript
 const priyanshu = {
-    pronouns: "He" | "Him",
+    pronouns: "He",
     code: ["Javascript",],
     technologies: {
         frontEnd: {
