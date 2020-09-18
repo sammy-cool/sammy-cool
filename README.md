@@ -4,11 +4,11 @@
   <img src="https://imgs.xkcd.com/comics/time_machine.png" alt="Time Machine">
 </p>
 
-<h2>
+<h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>#Full Stack Developer trainee at <a href="http://www.cleartax.in">DCT Academy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
- </h2> 
+ </h3> 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
