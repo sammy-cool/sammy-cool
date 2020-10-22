@@ -13,7 +13,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/priyanshu-patel-b904021b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-priyanshu patel-blue?style=flat&logo=linkedin"></a>
+<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-priyanshu patel-blue?style=flat&logo=linkedin"></a>
 <a href="https://github.com/sammy-cool"><img alt="Github" src="https://img.shields.io/badge/GitHub-priyanshu patel-blue?style=flat&logo=github"></a>
 <a href="mailto:priyanshu.alt191@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-priyanshu.alt191@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
