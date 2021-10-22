@@ -53,7 +53,7 @@ const priyanshu = {
         },
         databases: ["mongo", "NoSql"],
     },
-    currentProject: "I am developing Food delivery app FoodieNow",
+    currentProject: "...",
     funFact: "The more you Practise(coding), the more you learn because this is the endless journey"
 };
 ```
