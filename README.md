@@ -1,4 +1,4 @@
-<h2>Hi there 🙏🏻, I'm Priyanshu! A passionate full-stack(mern) developer from India. 
+<h2>Hi there 🙏🏻, I'm Priyanshu! A passionate Full-Stack(MERN) developer from India. 
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/time_machine.png" alt="Time Machine">
@@ -6,7 +6,7 @@
 
 <h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>#Full Stack Developer trainee at <a href="http://www.cleartax.in">DCT Academy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>#Full Stack Developer trainee at <a href="https://www.google.co.in/">DCT Academy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
  </h3> 
 
