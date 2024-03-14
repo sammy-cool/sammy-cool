@@ -58,6 +58,8 @@ const priyanshu = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>  ||  <a href="https://app.daily.dev/devpriyanshu"><img src="https://api.daily.dev/devcards/v2/lcZ0c9bFBAOlnlWvjob3b.png?type=wide&r=aqp" width="652" alt="Priyanshu Patel's Dev Card"/></a>
+
+
 
 ---
