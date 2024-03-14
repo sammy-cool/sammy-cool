@@ -1,4 +1,4 @@
-😊<h2>Hi there 🙏🏻, I'm Priyanshu! A passionate Full-Stack(MERN) developer from India. 
+<h2>Hi there 🙏🏻, I'm Priyanshu! A passionate Full-Stack(MERN) developer from India. 
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/time_machine.png" alt="Time Machine">
