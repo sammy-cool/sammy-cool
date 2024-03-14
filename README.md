@@ -1,3 +1,5 @@
+😊<p align="center"> <a href="https://app.daily.dev/devpriyanshu"><img src="https://api.daily.dev/devcards/v2/lcZ0c9bFBAOlnlWvjob3b.png?type=wide&r=aqp" width="652" alt="Priyanshu Patel's Dev Card"/></a> </p>
+
 <h2>Hi there 🙏🏻, I'm Priyanshu! A passionate Full-Stack(MERN) developer from India. 
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p align="center">
@@ -6,7 +8,7 @@
 
 <h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>#Full Stack Developer trainee at <a href="https://www.google.co.in/">DCT Academy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>@2020#Full Stack MERN Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🤝🏻DCT Academy🤝🏻. 
 </em></p>
  </h3> 
 
@@ -58,7 +60,7 @@ const priyanshu = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>  ||  <a href="https://app.daily.dev/devpriyanshu"><img src="https://api.daily.dev/devcards/v2/lcZ0c9bFBAOlnlWvjob3b.png?type=wide&r=aqp" width="652" alt="Priyanshu Patel's Dev Card"/></a>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>  ||...
 
 
 
