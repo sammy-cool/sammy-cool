@@ -45,13 +45,13 @@ const priyanshu = {
     code: ["Javascript",],
     technologies: {
         frontEnd: {
-            js: ["Javascript", "React", "react-redux"],
-            css: ["materialize", "bootstrap"]
+            js: ["Javascript", "React", "react-redux", "Next", "Vue", "Thymeleaf"],
+            css: ["Materialize", "Bootstrap", "CSS", "SCSS", "Tailwind"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["Node", "Express"],
         },
-        databases: ["mongo", "NoSql"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
     },
     currentProject: "...",
     funFact: "The more you Practise(coding), the more you learn because this is the endless journey"
