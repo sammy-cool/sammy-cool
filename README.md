@@ -1,3 +1,10 @@
+### 🔥 GitRoast Score
+
+A quick look at my GitHub profile, analyzed by [GitRoast](https://gitroast-dev.vercel.app/). Click either badge to explore my detailed GitRoast history.
+
+[![GitRoast Score](https://gitroast-dev.vercel.app/api/badge/sammy-cool)](https://gitroast-dev.vercel.app/history/sammy-cool)
+[![GitRoast Score](https://gitroast-dev.vercel.app/api/badge/sammy-cool?style=shield)](https://gitroast-dev.vercel.app/history/sammy-cool)
+
 <h2>Hi there 🙏🏻, I'm Priyanshu! A passionate Full-Stack(MERN) developer from India. 
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p align="center">
