@@ -20,7 +20,7 @@ A quick look at my GitHub profile, analyzed by [GitRoast](https://gitroast-dev.v
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-priyanshu patel-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/eureka-priyanshu-persona/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-priyanshu patel-blue?style=flat&logo=linkedin"></a>
 <a href="https://github.com/sammy-cool"><img alt="Github" src="https://img.shields.io/badge/GitHub-priyanshu patel-blue?style=flat&logo=github"></a>
 <a href="mailto:priyanshu.alt191@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-priyanshu.alt191@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
@@ -59,6 +59,7 @@ const priyanshu = {
             js: ["Node", "Express"],
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        tools: ["Jenkins", "Postman", "Github", "Git", "Docker", "CI/CD", "VsCode"]
     },
     currentProject: "...",
     funFact: "The more you Practise(coding), the more you learn because this is the endless journey"
